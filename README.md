@@ -1,6 +1,6 @@
 ## Project Title
 
-GBDA302 Week 5 Example 4: [name]
+GBDA302 Week 5 Example 4: Infinite Dreamscape
 
 ---
 
@@ -13,15 +13,20 @@ Editor: Katherine Chen
 
 ## Description
 
+A open world dreamscape where players can explore; Incorporates pastel surrealism, fragmented floating platforms, and hidden symbols.
+
 ---
 
 ## Interaction Instructions
 
--
+- Use the up down left right or WASD keys to control the player movements
+- Coming close to or interacting with a symbol reveals hidden text
+- Coming into contact with a platform bounces player right off
 
 Example:
 
->
+> Press the up key to move up on the map
+> Overlapping with a symbol reveals text that was not there before
 
 ---
 
